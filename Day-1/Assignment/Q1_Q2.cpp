@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 //Q1
 #include<iostream>
 #include<vector>
